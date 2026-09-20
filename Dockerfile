@@ -1,4 +1,4 @@
-FROM Nginx
+FROM nginx
 EXPOSE 80
 MAINTAINER Narasimha
 LABEL Its my first image and container
